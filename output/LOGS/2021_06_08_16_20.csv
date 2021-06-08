@@ -1,0 +1,4 @@
+Date,Symbol,Status,Error,Number of News,Runtime Seconds
+2021-06-08 16:21:18,AAPL,FAIL,"Request to benzinga page https://benzinga.com/stock/aapl received unknown error: Message: no such window: window was already closed
+  (Session info: chrome=91.0.4472.77)
+",0,55

@@ -1,0 +1,2 @@
+Request to benzinga page https://benzinga.com/stock/aapl received unknown error: Message: no such window: window was already closed
+  (Session info: chrome=91.0.4472.77)
